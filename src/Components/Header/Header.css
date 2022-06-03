@@ -1,0 +1,9 @@
+a{
+    margin-left: 25px;
+    border-bottom: 2px solid rgb(212, 207, 207);
+
+}
+a:hover{
+    border-bottom: 2px solid rgb(201, 154, 0);
+    color: rgb(189, 123, 0);
+}
